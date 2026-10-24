@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+float p,n,r,si;
+printf("enter the principal amount in rupees:");
+scanf("%f",&p);
+printf("enter the trem duration in months:");
+scanf("f",&n);
+printf("enter the rate if interest:");
+scanf("%f",&r);
+si=(p*n*r)/100;
+printf("simple interest is %f";si);
+}
