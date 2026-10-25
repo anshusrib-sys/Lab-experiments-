@@ -1,1 +1,1 @@
-created an c programmes on sum given topics 
+created an c programmes on some given topics 
